@@ -1,0 +1,15 @@
+2026-03-12 18:13:40 - package: mysql.connector.plugins
+2026-03-12 18:13:40 - plugin_name: caching_sha2_password
+2026-03-12 18:13:40 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-12 18:14:15 - Выполнен запрос: Топ-10 самых продаваемых товаров
+2026-03-12 18:14:22 - Выполнен запрос: Выручка по месяцам
+2026-03-12 18:24:36 - Выполнен запрос: Топ-10 самых продаваемых товаров
+2026-03-12 18:37:15 - Выполнен запрос: Постоянные клиенты
+2026-03-12 18:37:38 - package: mysql.connector.plugins
+2026-03-12 18:37:38 - plugin_name: caching_sha2_password
+2026-03-12 18:37:38 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-12 18:37:44 - Выполнен запрос: Постоянные клиенты
+2026-03-12 18:55:41 - package: mysql.connector.plugins
+2026-03-12 18:55:41 - plugin_name: caching_sha2_password
+2026-03-12 18:55:41 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-12 18:55:47 - Выполнен запрос: Топ-10 самых продаваемых товаров
